@@ -1,0 +1,184 @@
+*****  RUN PROGRAM *******
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 1
+
+Enter The name of file of your Game Library: gameLib.txt
+File failed to open.
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 3
+
+There are no Games in the Library. Add or load data 
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 4
+
+You have no game libraries saved, Start and save a game library in menu
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 2
+
+Game Name: 2k25
+
+Game Category: Sport
+
+Rating: 7.8
+
+Do you want to add a review for the game? (y/n): y
+
+Whats Your Name: Kai Matton
+
+Leave the Review Here: The game is very fun to play with others! 
+
+----------------------------------------------
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 4
+
+Enter a saved file with '.txt' to save or overwrite the data: gameLib.txt
+File gameLib.txt has been updated with new data
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 5
+
+Program Is Ending...
+
+
+
+
+
+***** RUN PROGRAM AGAIN ******
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 1
+
+Enter The name of file of your Game Library: gameLib.txt
+
+gameLib.txt The Loaded Library has 1 Games Saved.
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 3
+
+Game Name: 2k25
+Category: Sport
+Game Rating: 0
+
+Reviewer: Kai Matton
+Review: The game is very fun to play with others! 
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 2
+
+Game Name: fortnite
+
+Game Category: fps
+
+Rating: 10
+
+Do you want to add a review for the game? (y/n): n
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 1
+
+Games are already added or loaded, to load a saved file, empty your current library.
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 3
+
+Game Name: 2k25
+Category: Sport
+Game Rating: 0
+
+Reviewer: Kai Matton
+Review: The game is very fun to play with others! 
+
+Game Name: fortnite
+Category: fps
+Game Rating: 0
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 4
+
+Enter a saved file with '.txt' to save or overwrite the data: gameLib.txt
+File gameLib.txt has been updated with new data
+
+----------------------------------------------
+What Would You Like To Do?
+    1 - Import A Game Library
+    2 - Add A New Game
+    3 - Print Your Game Library
+    4 - Save Your Game Library 
+    5 - Exit
+    CHOOSE: 1-5: 5
+
+Program Is Ending...

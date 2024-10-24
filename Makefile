@@ -2,12 +2,12 @@ CC = g++
 CFLAGS = -Wall -g
  
  
-main: main.o game.o gameLibrary.o review.o
-    $(CC) $(CFLAGS) -o main main.o game.o gameLibrary.o review.o
+driver: driver.o game.o gameLibrary.o review.o
+    $(CC) $(CFLAGS) -o driver driver.o game.o gameLibrary.o review.o
  
  
-main.o: main.cpp game.h gameLibrary.h review.o
-    $(CC) $(CFLAGS) -c main.cpp
+driver.o: Driver.cpp game.h gameLibrary.h review.h
+    $(CC) $(CFLAGS) -c Driver.cpp
  
 game.o: game.h
  
